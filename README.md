@@ -1,6 +1,6 @@
 # 竞斗云OpenWrt
 
-源码来自：[Lean-lede]("https://github.com/coolsnowwolf/lede")
+源码来自：[Lean-lede](https://github.com/coolsnowwolf/lede)
 
 云编译项目：[Actions-OpenWrt](https://github.com/P3TERX/Actions-OpenWrt)
 
