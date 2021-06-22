@@ -7,6 +7,7 @@
 **个人自用项目，已上机测试正常**
 
 ![Status](https://github.com/2CW/jdy-openwrt/actions/workflows/build-openwrt.yml/badge.svg)
+![update-checker](https://github.com/2CW/jdy-openwrt/actions/workflows/update-checker.yml/badge.svg)
 
 ---
 插件列表：
