@@ -9,7 +9,7 @@
 ![Status](https://github.com/2CW/jdy-openwrt/actions/workflows/build-openwrt.yml/badge.svg)
 ![update-checker](https://github.com/2CW/jdy-openwrt/actions/workflows/update-checker.yml/badge.svg)
 
-**固件下载方法： 点击标题栏的Actions➡找到左侧Build OpenWrt➡找到有绿色勾勾的栏，点进去➡在Annotations栏里面就会看到有奶牛快传和we.tl的地址了，如果两个都已失效，可以选择Artifacts里面的下载**
+**固件下载方法： 点击标题栏的Actions➡找到左侧Source Code Update➡找到有绿色勾勾的栏，点进去➡在Annotations栏里面就会看到有奶牛快传和we.tl的地址了，如果两个都已失效，可以选择Artifacts里面的下载**
 
 ---
 插件列表：
